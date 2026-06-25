@@ -17,7 +17,7 @@ Five classes of one-second single frequency sine waves
 ## Training
 Run: `./train_tm.py`
 
-![Training](img/training.png)
+![Training](img/training_small.png)
 
 **binarizer_thresh.mem** contains the 104 threshold values (13 MFCC coefficients × 8 thresholds per coefficient) used for thermometer encoding, converting continuous MFCC coefficients into the 104-bit binary feature vectors required by the Tsetlin Machine. The thresholds are derived once (!) from the training dataset using percentile-based quantization to provide a good coverage of the observed MFCC value range and remain fixed during both training and inference.
 
