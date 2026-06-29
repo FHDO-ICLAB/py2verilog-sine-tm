@@ -39,4 +39,4 @@ Let `./classify_wav.sh ...` complete 95 frames
 ### Generate Wave Files with arbitrary Frequency
 Run `./generate_sine.py 1300`
 
-![Generating sine waves](img/gen_sine.png)
+![Generating sine waves](img/gen_sine2.png)
