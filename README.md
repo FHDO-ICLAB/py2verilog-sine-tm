@@ -36,7 +36,7 @@ Let `./classify_wav.sh ...` complete 95 frames
 
 ![Inference](img/majority_vote.png)
 
-### Generate Wave Files with arbitrary Frequency
+### Generate Sine Wave Files with Arbitrary Frequency
 Run `./generate_sine.py 1300`
 
 ![Generating sine waves](img/gen_sine.png)
