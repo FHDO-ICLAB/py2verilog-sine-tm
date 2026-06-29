@@ -35,3 +35,5 @@ Run: `./classify_wav.sh data/class4/class4_2000Hz.waw`
 Let `./classify_wav.sh ...` complete 95 frames
 
 ![Inference](img/majority_vote.png)
+
+### Generate Wave Files with specified Frequency
